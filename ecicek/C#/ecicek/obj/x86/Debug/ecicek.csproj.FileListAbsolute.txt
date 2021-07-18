@@ -1,0 +1,27 @@
+C:\Users\Yekta Güleryüz\Desktop\VS ile yapılanlar\ecicek\ecicek\bin\Debug\ecicek.exe
+C:\Users\Yekta Güleryüz\Desktop\VS ile yapılanlar\ecicek\ecicek\bin\Debug\ecicek.pdb
+C:\Users\Yekta Güleryüz\Desktop\VS ile yapılanlar\ecicek\ecicek\obj\x86\Debug\ecicek.Form1.resources
+C:\Users\Yekta Güleryüz\Desktop\VS ile yapılanlar\ecicek\ecicek\obj\x86\Debug\ecicek.Properties.Resources.resources
+C:\Users\Yekta Güleryüz\Desktop\VS ile yapılanlar\ecicek\ecicek\obj\x86\Debug\ecicek.csproj.GenerateResource.Cache
+C:\Users\Yekta Güleryüz\Desktop\VS ile yapılanlar\ecicek\ecicek\obj\x86\Debug\ecicek.exe
+C:\Users\Yekta Güleryüz\Desktop\VS ile yapılanlar\ecicek\ecicek\obj\x86\Debug\ecicek.pdb
+C:\Users\Yekta Güleryüz\Desktop\VS ile yapılanlar\ecicek\ecicek\obj\x86\Debug\ecicek.csprojResolveAssemblyReference.cache
+C:\Users\Yekta Güleryüz\Desktop\VS ile yapılanlar\ecicek kaynak\ecicek\obj\x86\Debug\ecicek.csprojResolveAssemblyReference.cache
+C:\Users\Yekta Güleryüz\Desktop\VS ile yapılanlar\ecicek kaynak\ecicek\obj\x86\Debug\ecicek.Form1.resources
+C:\Users\Yekta Güleryüz\Desktop\VS ile yapılanlar\ecicek kaynak\ecicek\obj\x86\Debug\ecicek.Properties.Resources.resources
+C:\Users\Yekta Güleryüz\Desktop\VS ile yapılanlar\ecicek kaynak\ecicek\obj\x86\Debug\ecicek.csproj.GenerateResource.Cache
+C:\Users\Yekta Güleryüz\Desktop\VS ile yapılanlar\ecicek kaynak\ecicek\bin\Debug\e-cicek.exe
+C:\Users\Yekta Güleryüz\Desktop\VS ile yapılanlar\ecicek kaynak\ecicek\bin\Debug\e-cicek.pdb
+C:\Users\Yekta Güleryüz\Desktop\VS ile yapılanlar\ecicek kaynak\ecicek\obj\x86\Debug\e-cicek.exe
+C:\Users\Yekta Güleryüz\Desktop\VS ile yapılanlar\ecicek kaynak\ecicek\obj\x86\Debug\e-cicek.pdb
+C:\Users\Yekta Güleryüz\Desktop\VS ile yapılanlar\ecicek kaynak\C#\ecicek\obj\x86\Debug\e-cicek.exe
+C:\Users\Yekta Güleryüz\Desktop\VS ile yapılanlar\ecicek kaynak\C#\ecicek\obj\x86\Debug\e-cicek.pdb
+E:\Yedekler\Yekta\Yekta Yedek\flash bellek\flash bellek içi\ecicek\ecicek kaynak\C# - Kopya\ecicek\bin\Debug\e-cicek.exe
+E:\Yedekler\Yekta\Yekta Yedek\flash bellek\flash bellek içi\ecicek\ecicek kaynak\C# - Kopya\ecicek\bin\Debug\e-cicek.pdb
+E:\Yedekler\Yekta\Yekta Yedek\flash bellek\flash bellek içi\ecicek\ecicek kaynak\C# - Kopya\ecicek\obj\x86\Debug\ecicek.csprojAssemblyReference.cache
+E:\Yedekler\Yekta\Yekta Yedek\flash bellek\flash bellek içi\ecicek\ecicek kaynak\C# - Kopya\ecicek\obj\x86\Debug\ecicek.Form1.resources
+E:\Yedekler\Yekta\Yekta Yedek\flash bellek\flash bellek içi\ecicek\ecicek kaynak\C# - Kopya\ecicek\obj\x86\Debug\ecicek.Properties.Resources.resources
+E:\Yedekler\Yekta\Yekta Yedek\flash bellek\flash bellek içi\ecicek\ecicek kaynak\C# - Kopya\ecicek\obj\x86\Debug\ecicek.csproj.GenerateResource.cache
+E:\Yedekler\Yekta\Yekta Yedek\flash bellek\flash bellek içi\ecicek\ecicek kaynak\C# - Kopya\ecicek\obj\x86\Debug\ecicek.csproj.CoreCompileInputs.cache
+E:\Yedekler\Yekta\Yekta Yedek\flash bellek\flash bellek içi\ecicek\ecicek kaynak\C# - Kopya\ecicek\obj\x86\Debug\e-cicek.exe
+E:\Yedekler\Yekta\Yekta Yedek\flash bellek\flash bellek içi\ecicek\ecicek kaynak\C# - Kopya\ecicek\obj\x86\Debug\e-cicek.pdb
